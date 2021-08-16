@@ -3,8 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Output
-![](src/assets/sc1.png){:height="700px" width="400px"}
-![](src/assets/sc2.png){:height="700px" width="400px"}
+<img src="https://github.com/akmadan/react_weatherapp/blob/master/src/assets/sc1.png" width="400">
+<img src="https://github.com/akmadan/react_weatherapp/blob/master/src/assets/sc2.png" width="400">
+
 ## Available Scripts
 
 In the project directory, you can run:
