@@ -3,8 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Output
-<img src="https://github.com/akmadan/react_weatherapp/blob/master/src/assets/sc1.png" width="400">
+<div>
+  <img src="https://github.com/akmadan/react_weatherapp/blob/master/src/assets/sc1.png" width="400">
 <img src="https://github.com/akmadan/react_weatherapp/blob/master/src/assets/sc2.png" width="400">
+</div>
+
 
 ## Available Scripts
 
