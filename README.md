@@ -3,8 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Output
-![](src/assets/sc1.png)
-![](src/assets/sc2.png)
+![](src/assets/sc1.png | width=100)
+![](src/assets/sc2.png | width=100)
 
 ## Available Scripts
 
